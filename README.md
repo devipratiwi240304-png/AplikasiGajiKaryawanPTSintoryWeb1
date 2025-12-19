@@ -21,7 +21,7 @@ meliputi input data karyawan, perhitungan gaji, serta laporan gaji.
 ![Data Gaji](Screenshot/Data%20Gaji.png)
 
 ## Tampilan Simpan Gaji
-![Simpan Gaji](Screenshot/Data_simpan_gaji.png)
+![Simpan Gaji](Screenshot/Data%20simpan%20gaji.png)
 
 
 ### Laporan Gaji
