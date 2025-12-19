@@ -20,8 +20,9 @@ meliputi input data karyawan, perhitungan gaji, serta laporan gaji.
 ### Data Gaji
 ![Data Gaji](Screenshot/Data%20Gaji.png)
 
-### Simpan Data Gaji
-![Simpan Gaji](Screenshot/Data%20simpan%20gaji.png)
+## Tampilan Simpan Gaji
+![Simpan Gaji](Screenshot/Data_simpan_gaji.png)
+
 
 ### Laporan Gaji
 ![Laporan Gaji](Screenshot/Laporan%20Gaji.png)
